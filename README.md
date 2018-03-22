@@ -11,24 +11,22 @@ When done with the backend This will be achieved by HelloBooks:
 - HTML5
 - CSS3
 
-#Setup
+# Setup
 To work with this project on your local machine:
 - Navigate to your desired directory of your server.
 - Clone this repository on that directory
   Using SSH:
    
-       ```git@github.com:DerKip/derkip.github.io.git```
+       git@github.com:DerKip/derkip.github.io.git
 
  Using HTTP:
 
-```https://github.com/DerKip/derkip.github.io.git```
-
-Launch your browser and navigate to http://your-server/derkip.github.io/designs/UI/index.html
+       https://github.com/DerKip/derkip.github.io.git
 
 On github pages:
 
 Point your browser to
-  ```https://Derkip.github.io/designs/UI/index.html```
+   https://Derkip.github.io/designs/UI/index.html
   
 # Contribution:
 If you want to contribute to this project:
