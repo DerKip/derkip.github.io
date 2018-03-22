@@ -26,7 +26,7 @@ To work with this project on your local machine:
 On github pages:
 
 Point your browser to
-   https://Derkip.github.io/designs/UI/index.html
+   https://derkip.github.io/UI/index.html
   
 # Contribution:
 If you want to contribute to this project:
